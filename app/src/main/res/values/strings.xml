@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NongBaiYok</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="intro_text">Swipe edge to exit the map.</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="str111">จัดทำโดย</string>
+    <string name="str2">จัดทำโดย</string>
+    <string name="str3">นาย เรืองจรัส ทองจรัส</string>
+    <string name="str33">นายธิตินนท์ ผลรุ่ง</string>
+</resources>
