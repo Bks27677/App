@@ -42,12 +42,15 @@ public class SshopActivity extends AppCompatActivity {
         setProductRecycler(productCategoryList);
 
         List<Products> productsList = new ArrayList<>();
-        productsList.add(new Products(1, "Product001", "500 ชิ้น", "300 Bath", R.drawable.prod2));
-        productsList.add(new Products(2, "Product002", "350 ชิ้น", "500 Bath", R.drawable.prod1));
-        productsList.add(new Products(1, "Product003", "500 ชิ้น", "300 Bath", R.drawable.prod2));
-        productsList.add(new Products(2, "Product004", "350 ชิ้น", "500 Bath", R.drawable.prod1));
-        productsList.add(new Products(1, "Product005", "500 ชิ้น", "300 Bath", R.drawable.prod2));
-        productsList.add(new Products(2, "Product006", "350 ชิ้น", "500 Bath", R.drawable.prod1));
+        productsList.add(new Products(1, "Product001", "500 ชิ้น", "300 Bath", R.drawable.a001));
+        productsList.add(new Products(2, "Product002", "350 ชิ้น", "500 Bath", R.drawable.a002));
+        productsList.add(new Products(1, "Product003", "500 ชิ้น", "300 Bath", R.drawable.a003));
+        productsList.add(new Products(2, "Product004", "350 ชิ้น", "500 Bath", R.drawable.a004));
+        productsList.add(new Products(1, "Product005", "500 ชิ้น", "300 Bath", R.drawable.a005));
+        productsList.add(new Products(2, "Product006", "350 ชิ้น", "500 Bath", R.drawable.a006));
+        productsList.add(new Products(2, "Product007", "350 ชิ้น", "500 Bath", R.drawable.a007));
+        productsList.add(new Products(2, "Product008", "350 ชิ้น", "500 Bath", R.drawable.a008));
+        productsList.add(new Products(2, "Product009", "350 ชิ้น", "500 Bath", R.drawable.a009));
 
         setProdItemRecycler(productsList);
 
